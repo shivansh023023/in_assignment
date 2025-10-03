@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image-1",
+      "description": "A cozy library with warm lighting.",
+      "imageUrl": "https://images.unsplash.com/photo-1651951368059-3561c1cad537?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsaWJyYXJ5JTIwaW50ZXJpb3J8ZW58MHx8fHwxNzU5MzE3NzUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "library interior"
+    },
+    {
+      "id": "book-cover-1",
+      "description": "Abstract cover for a sci-fi book.",
+      "imageUrl": "https://images.unsplash.com/photo-1676629312507-c0ab2ee0e07c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdCUyMHNjaS1maXxlbnwwfHx8fDE3NTkzNjAxMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract sci-fi"
+    },
+    {
+      "id": "book-cover-2",
+      "description": "Vintage cover for a fantasy book.",
+      "imageUrl": "https://images.unsplash.com/photo-1667932242848-640b65b18bd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmYW50YXN5JTIwbWFwfGVufDB8fHx8MTc1OTM2NzU0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fantasy map"
+    },
+    {
+      "id": "book-cover-3",
+      "description": "Minimalist cover for a mystery book.",
+      "imageUrl": "https://images.unsplash.com/photo-1758393517077-a2d963888cfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXN0JTIwbXlzdGVyeXxlbnwwfHx8fDE3NTkzOTgzOTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist mystery"
+    },
+    {
+      "id": "book-cover-4",
+      "description": "Colorful cover for a romance book.",
+      "imageUrl": "https://images.unsplash.com/photo-1620455970942-5fca5840d5ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyb21hbmNlJTIwY291cGxlfGVufDB8fHx8MTc1OTMzMzc1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "romance couple"
+    },
+    {
+      "id": "book-cover-5",
+      "description": "Historical cover for a non-fiction book.",
+      "imageUrl": "https://images.unsplash.com/photo-1758574926737-e0615e4855d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxoaXN0b3JpY2FsJTIwZG9jdW1lbnR8ZW58MHx8fHwxNzU5Mzk4MzkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "historical document"
+    },
+    {
+      "id": "book-cover-default",
+      "description": "Generic book cover placeholder.",
+      "imageUrl": "https://images.unsplash.com/photo-1521123845560-14093637aa7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxib29rJTIwY292ZXJ8ZW58MHx8fHwxNzU5MzE2NTM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "book cover"
+    },
+    {
+      "id": "profile-avatar",
+      "description": "User profile avatar placeholder.",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTkzOTU3Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    }
+  ]
+}
